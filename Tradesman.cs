@@ -118,7 +118,7 @@ namespace Tradesman
 
     }
 
-    class Program
+    class Tradesman
     {
 
         static async Task Main(string[] args)
